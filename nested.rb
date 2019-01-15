@@ -95,7 +95,7 @@ def changing_alan
      
 end
 
-binding.pry
+
 
 def adding_to_dennis
 	programmer_hash = 
